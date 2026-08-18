@@ -70,9 +70,7 @@ The following accounts are available by default:
 | Username | Password   |
 |----------|------------|
 | admin    | admin1234  |
-| faraz    | faraz1234  |
 | huzaif   | huzaif1234 |
-| talal    | talal1234  |
 
 ---
 
