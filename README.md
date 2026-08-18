@@ -18,12 +18,6 @@ A graphical hospital patient management application built with C++ and SFML 2. I
 
 ---
 
-## Screenshots
-
-> Run the application to see the full-screen graphical interface.
-
----
-
 ## Requirements
 
 | Dependency | Version |
