@@ -125,14 +125,3 @@ This structure allows efficient sequential traversal in both directions, support
 - Press Enter to move from username to password field, then Enter again to log in
 - Or click the Login button
 
----
-
-## Platform
-
-This project was originally developed on Windows and has been ported to macOS. The build system uses the Homebrew-installed SFML@2 dylibs. Windows `.dll` files and the Windows-targeted Makefile have been removed.
-
----
-
-## Authors
-
-Developed as a Data Structures semester project.
